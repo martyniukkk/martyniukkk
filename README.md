@@ -9,8 +9,8 @@
 
 ### 📫 Contact Me:
 - **Email:** [vitaliy.martunyuk@gmail.com](mailto:vitaliy.martunyuk@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/vitaliimartyniuk1](https://linkedin.com/in/vitaliimartyniuk1)  
-- **Resume/CV:** [drive.google.com/file](https://drive.google.com/file/d/1AoUYFt7m-7L9To1gk6ZSSEiXk3_C5ldy/view?pli=1)  
+- **LinkedIn:** [linkedin.com/in/martyniukkk](https://www.linkedin.com/in/martyniukkk/)  
+- **Resume/CV:** [drive.google.com/file](https://drive.google.com/file/d/1mx5W3hNyLpbKhkUUg3NnjzxW94kJ1f7-/view)  
 
 ---
 
@@ -51,8 +51,8 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martunyuk&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martunyuk&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martyniukkk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martyniukkk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
