@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitalii Martyniuk</h1>
+<h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">🚀 Android Developer | Kotlin | Java | Clean Architecture | Jetpack Compose | OOP | Android SDK</h3>
 
 <p align="center">  
