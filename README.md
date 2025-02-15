@@ -10,7 +10,7 @@
 ### 📫 Contact Me:
 - **Email:** [vitaliy.martunyuk@gmail.com](mailto:vitaliy.martunyuk@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/martyniukkk](https://www.linkedin.com/in/martyniukkk/)  
-- **Resume/CV:** [drive.google.com/file](https://drive.google.com/file/d/1KTJt0O_pLTwWwnIBZKbA4yNVSCK9U11i/view)  
+- **Resume/CV:** [drive.google.com/file](https://drive.google.com/file/d/1EG1YBuszRUXQOhnnsHhSTmluazUoCL8T/view)  
 
 ---
 
